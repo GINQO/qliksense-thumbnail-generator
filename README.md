@@ -35,5 +35,5 @@ Installation of this bookmarklet is performed by creating a new bookmark, and pa
 -   Due of the browser CORS policy, it might not be able to take screenshot of sheet that contains some complex visualization [https://github.com/tsayen/dom-to-image/issues/205](Issue #205)
 
 
-V.1 (2022-06-20)
--   Intitial release
+**v.1.0 (2022-06-20)**
+-   Initial release
