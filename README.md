@@ -1,5 +1,5 @@
 
-**GINQO QlikSense Thumbnail generator** is a bookmarklet to take screenshot of your QlikSense app in proper size ratio and download it into JPEG.
+**GINQO QlikSense Thumbnail generator** is a bookmarklet to take screenshot of your QlikSense app sheet in proper size ratio and download it into JPEG file.
 It depends on the [dom-to-image](https://github.com/tsayen/dom-to-image) Javascript library by Anatolii Saienko, Paul Bakaus (original idea) that is hardcoded in the script. It generates an image from the QlikSense app sheet in Base64 format with javascript without create external calls to any server or anything on every modern browser.
 
 
@@ -32,7 +32,7 @@ Or go to [https://ginqo.com/thumbnail](https://ginqo.com/thumbnail) and drag the
 
 **Known limitations**
 -   Works on Chrome, Edge and Firefox. Internet Explorer and Safari are not supported.
--   Due of the browser CORS policy, it might not be able to take screenshot of sheet that contains some complex visualization [https://github.com/tsayen/dom-to-image/issues/205](Issue #205)
+-   Due of the browser CORS policy, it might not be able to take screenshot of a sheet that contains some complex visualizations [https://github.com/tsayen/dom-to-image/issues/205](Issue #205)
 
 
 **v.1.0 (2022-06-20)**
